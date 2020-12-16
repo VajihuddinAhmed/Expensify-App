@@ -5,4 +5,4 @@ import './styles/style.scss'
 
 
 
-ReactDOM.render(<p>This is a new project</p>, document.getElementById('main'))
+ReactDOM.render(<p>This is a new project</p>, document.getElementById('app'))
